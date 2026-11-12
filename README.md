@@ -11,6 +11,13 @@ Project rules live in CLAUDE.md, parallel sessions in git worktrees, and tests a
 tour operators at once, merges their offers into one list of hotels and embeds on any travel agency site with two
 lines of HTML. Sole developer, built with Claude Code, in production. [Try the live demo](https://more-turov.pro/agencies).
 
+**Open-source Claude Code skills** — install in one command, MIT:
+
+- [resume-create](https://github.com/MarkForest/resume-create) — tailor your resume to any job posting in one prompt:
+  a one-page PDF and a cover letter in the posting's language, nothing invented.
+- [normalize-prompt](https://github.com/MarkForest/normalize-prompt) — turn a rambling prompt into a compact
+  engineering prompt, on any model.
+
 - Portfolio: https://markforest.github.io
 - LinkedIn: https://www.linkedin.com/in/anatoliimarchenko/
 - Email: amarchenkodev@gmail.com
